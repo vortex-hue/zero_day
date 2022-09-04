@@ -1,0 +1,1 @@
+The reuslt of uname
